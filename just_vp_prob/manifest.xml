@@ -1,0 +1,17 @@
+<package>
+  <description brief="just_vp_prob">
+
+     just_vp_prob
+
+  </description>
+  <author>karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/just_vp_prob</url>
+  <depend package="icpr_prob_module"/>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+
+</package>
+
+

@@ -1,0 +1,15 @@
+<package>
+  <description brief="just_time">
+
+     just_time
+
+  </description>
+  <author>karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/just_time</url>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+</package>
+
+

@@ -1,0 +1,18 @@
+<package>
+  <description brief="icpr_prob_module">
+
+     icpr_prob_module
+
+  </description>
+  <author>Karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/icpr_prob_module</url>
+  <depend package="iros2012_sample"/>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="visualization_msgs" />
+
+</package>
+
+
